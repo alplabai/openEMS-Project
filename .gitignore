@@ -4,6 +4,7 @@ tmp*
 .directory
 build/
 build_*.log
+install/
 localConfig.cmake
 *.tar.bz2
 
